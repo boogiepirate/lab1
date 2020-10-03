@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo-header {
+  color: #fff;
+  background-color: #FF1616;  /* Blue */
+  padding: 0px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.nav {
+  background-color: #2F323D;
+}
+
+.nav-item {
+  color: #fff;
+}
+
+ul li a {
+  color: white;
+}
+
+ul li a:hover {
+  color: gray;
+}
